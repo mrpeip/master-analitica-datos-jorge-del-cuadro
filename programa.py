@@ -1,3 +1,3 @@
 import numpy
 
-print("Adios")
+print("Buenas tardes")
